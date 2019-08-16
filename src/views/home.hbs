@@ -1,0 +1,10 @@
+{{#each data}}
+<div class="container">
+    <a class="link" href="{{getLaptops this.id}}"> <img class="laptopImage" src="{{this.img}}" alt="not loaded" />
+        <h2>{{this.type}}</h2>
+        <p>{{this.description}}<p>
+                <h4>{{this.price}}<span> $</span></h4>
+
+    </a>
+</div>
+{{/each }}

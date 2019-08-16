@@ -1,0 +1,32 @@
+{
+  "name": "Laptops-Market-",
+  "version": "1.0.0",
+  "description": "Laptops Market helps you search for Laptops and buy it online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape src/test.js | tap-spec",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fack2/Laptops-Market-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fack2/Laptops-Market-/issues"
+  },
+  "homepage": "https://github.com/fack2/Laptops-Market-#readme",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "nodemon": "^1.19.1",
+    "pg": "^7.12.1",
+    "supertest": "^4.0.2",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.11.0"
+  }
+}
