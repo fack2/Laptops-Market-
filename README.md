@@ -1,6 +1,6 @@
 # Shopping-Market-
 
-Shopping Market helps you search for Laptops and buy it online. 
+Laptops Market helps you search for Laptops and buy it online. 
 
 ### user journey:
 
