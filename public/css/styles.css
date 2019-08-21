@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.laptopImage {
+  width: 400px;
+  height: 400px;
+  background-color: rebeccapurple;
+}
+
+.container {
+  background-color: red;
+  color: blue;
+}
+
+.link {
+  background-color: chartreuse;
+}
